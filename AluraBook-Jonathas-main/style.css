@@ -3,9 +3,9 @@
 @import url("styles/carossel.css");
 
 :root {
-    --cor-de-fundo: #EBECEE;
-    --branco: #FFFFFF;
-    --laranja: #EB9B00;
+    --cor-de-fundo: #dd0000;
+    --branco: #059400;
+    --laranja: #003feb;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
 }
